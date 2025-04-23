@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA engineer, IT enthusiast, Positive person </h3>
 
-I am looking for a job as a QA engineer (Junior). My CV in the link above.
+My CV in the link above.
 You can take a look at one of my <a href="https://github.com/sukhanov-av/QA" target="_blank">examples</a>  of working with documentation, test cases, bug reports etc, that I completed during my education.
 
 Feel free to contact me in any convenient way: 
